@@ -13,3 +13,11 @@ Make a change to your file with a git hosting tool and commit
 Create a "branch" (version), make a change, commit the change
 Open a "pull request" (propose changes to the main branch)
 "Merge" your branch to the main branch
+
+
+#Change 2
+Git has the functionality, performance, security
+ and flexibility that most teams and individual developers need.
+ These attributes of Git are detailed above. In side-by-side
+ comparisons with most other alternatives,
+ many teams find that Git is very favorable.
